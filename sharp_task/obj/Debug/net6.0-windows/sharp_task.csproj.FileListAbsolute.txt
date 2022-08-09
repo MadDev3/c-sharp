@@ -1,0 +1,17 @@
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\bin\Debug\net6.0-windows\sharp_task.exe
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\bin\Debug\net6.0-windows\sharp_task.deps.json
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\bin\Debug\net6.0-windows\sharp_task.runtimeconfig.json
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\bin\Debug\net6.0-windows\sharp_task.dll
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\bin\Debug\net6.0-windows\sharp_task.pdb
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\obj\Debug\net6.0-windows\sharp_task.csproj.AssemblyReference.cache
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\obj\Debug\net6.0-windows\sharp_task.Form1.resources
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\obj\Debug\net6.0-windows\sharp_task.csproj.GenerateResource.cache
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\obj\Debug\net6.0-windows\sharp_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\obj\Debug\net6.0-windows\sharp_task.AssemblyInfoInputs.cache
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\obj\Debug\net6.0-windows\sharp_task.AssemblyInfo.cs
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\obj\Debug\net6.0-windows\sharp_task.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\obj\Debug\net6.0-windows\sharp_task.dll
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\obj\Debug\net6.0-windows\refint\sharp_task.dll
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\obj\Debug\net6.0-windows\sharp_task.pdb
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\obj\Debug\net6.0-windows\sharp_task.genruntimeconfig.cache
+C:\Users\Vadim\source\repos\sharp_task\sharp_task\obj\Debug\net6.0-windows\ref\sharp_task.dll
